@@ -1,0 +1,17 @@
+nav {
+  position: fixed;
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+}
+.nav__avatar {
+  object-fit: contain;
+  margin: 0.8rem 1.5rem;
+}
+.nav_black {
+  background-color: rgba(0, 0, 0, 0.8);
+}
+.nav {
+  /* background-color: transparent; */
+  background-color: transparent;
+}
